@@ -59,6 +59,6 @@ fato
 execução do cursor. Para isso, utilize os seguintes comandos:</p>
 
 ~~~
-cursor.close()  # encerra os comandos da conexão
-connection.close()  # fecha a conexão com o banco de dados
+cursor.close()
+connection.close()
 ~~~
